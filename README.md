@@ -50,7 +50,7 @@ Documentation is available at https://kiro.dev/docs/powers/
 ---
 
 ### aws-transform
-**Agents modernizing the world's infrastructure and software**, backed by years of AWS expertise. AWS Transform is a full modernization factory — connecting assessment through execution in a single experience, so the manual handoffs and lost context that commonly stall large-scale migrations and ongoing tech debt reduction no longer slow you down. This plugin brings AWS Transform directly into your IDE. AWS Transform custom is the first supported capability, with more playbooks on the way. Find out more at [aws.amazon.com/transform](https://aws.amazon.com/transform/)
+**Agents modernizing the world's infrastructure and software**, backed by years of AWS expertise. AWS Transform is a full modernization factory — connecting assessment through execution in a single experience, so the manual handoffs and lost context that commonly stall large-scale migrations and ongoing tech debt reduction no longer slow you down. This power brings AWS Transform directly into Kiro. AWS Transform custom is the first supported capability, with more playbooks on the way. Find out more at [aws.amazon.com/transform](https://aws.amazon.com/transform/)
 
 **MCP Servers:** None
 
